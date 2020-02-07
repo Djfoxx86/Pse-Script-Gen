@@ -1,0 +1,44 @@
+Pse Script Gen 
+Current Release v1.0.4.2
+Release Date: 02/04/2020
+Author: Dustin Rose
+Email: Dustin.rose@ftr.com
+
+Versioning:
+     Major.Minor.Fix-Build
+
+ Legend:
+==================
+    + Add
+    - Remove
+    ! Fix
+    * Change
+    ^ Update
+==================
+ 
+This application serves as a pseudowire provisioning script generator specifically for Adtran TA5000 and Netvanta 8044 series devices.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+AHK-TK v1.0.4.2 
+Date: Tue Feb 4 2020
+Patch Notes:
+-	! Fix syntax errors.
+-	* Change Ip-Host descriptions have been corrected to show "PWE3_ELAN" or "PWE3_P2P" 
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+AHK-TK v1.0.3.1 
+Patch Notes:
+-	! Fix Bug for invisible DS1 VG port edit variable.
+-	* Change submission script to display independent DS1 VG ports in interface configuration.
+	
+--------------------------------------------------------------------------------------------------------------------------------------
+
+AHK-TK v1.0.2.0 
+Patch Notes:
+-	* Change psedowire interface provisioning to include mode changes.
+-	^ Update Improved dropdown selection flow.
+-	+ Add “Clear Info” button now displays tool tip when mouse is hovering above
+	
+--------------------------------------------------------------------------------------------------------------------------------------
