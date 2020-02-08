@@ -1,5 +1,5 @@
 Pse Script Gen 
-Current Release v1.0.4.2
+Current Release v1.0.4.3
 Release Date: 02/04/2020
 Author: Dustin Rose
 Email: Dustin.rose@ftr.com
