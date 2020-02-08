@@ -1,5 +1,5 @@
 [Info]
-Version=3
+Version=4
 Pse Script Gen 
 Release Date: 02/04/2020
 Author: Dustin Rose
@@ -20,7 +20,7 @@ Versioning:
 This application serves as a pseudowire provisioning script generator specifically for Adtran TA5000 and Netvanta 8044 series devices.
 --------------------------------------------------------------------------------------------------------------------------------------
 
-AHK-TK v1.0.4.2 
+AHK-TK v3
 Date: Tue Feb 4 2020
 Patch Notes:
 -	! Fix syntax errors.
@@ -29,14 +29,14 @@ Patch Notes:
 --------------------------------------------------------------------------------------------------------------------------------------
 
 
-AHK-TK v1.0.3.1 
+AHK-TK v2
 Patch Notes:
 -	! Fix Bug for invisible DS1 VG port edit variable.
 -	* Change submission script to display independent DS1 VG ports in interface configuration.
 	
 --------------------------------------------------------------------------------------------------------------------------------------
 
-AHK-TK v1.0.2.0 
+AHK-TK v1
 Patch Notes:
 -	* Change psedowire interface provisioning to include mode changes.
 -	^ Update Improved dropdown selection flow.
