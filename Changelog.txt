@@ -1,5 +1,5 @@
 [Info]
-Version=4
+Version=3
 Pse Script Gen 
 Release Date: 02/04/2020
 Author: Dustin Rose
