@@ -1,5 +1,5 @@
 [Info]
-Version=1.4
+Version=1.5
 PSW Script Gen 
 Release Date: 02/04/2020
 Author: Dustin Rose
@@ -19,8 +19,15 @@ This application serves as a pseudowire provisioning script generator specifical
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
+ v1.5
+Date: Tue Feb 13 2020
+Patch Notes:
+-	! Fix - Syntax errors.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
  v1.4
-Date: Tue Feb 7 2020
+Date: Tue Feb 11 2020
 Patch Notes:
 -	! Fix - Edit area positions.
 -	! Fix - Syntax errors.
