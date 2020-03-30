@@ -1,7 +1,7 @@
 [Info]
-Version=1.6
+Version=1.7
 PSW Script Gen 
-Release Date: 02/04/2020
+Release Date: 03/30/2020
 Author: Dustin Rose
 Email: Dustin.rose@ftr.com
 
@@ -16,6 +16,14 @@ Email: Dustin.rose@ftr.com
 ==================
  
 This application serves as a pseudowire provisioning script generator specifically for Adtran TA5000 and Netvanta 8044 series devices.
+--------------------------------------------------------------------------------------------------------------------------------------
+ 
+ v1.7
+Date: Tue Mar 30 2020
+Patch Notes:
+-	! Fix - Basic Mode now shows correct VLAN
+
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
  v1.6
